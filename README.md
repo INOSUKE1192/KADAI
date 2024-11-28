@@ -16,7 +16,7 @@
 #リポジトリをクローン
 git clone https://github.com/INOSUKE1192/KADAI.git
 #ディレクトリに移動
-cd SL.py
+python3 SL.py
 ##必要なソフトウェア
 python
 ##使い方
